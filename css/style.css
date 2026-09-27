@@ -170,6 +170,20 @@ a:hover {
 	line-height:1.3;
 }
 
+
+/* Logo / Banner horizontal superior */
+.header-logo {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: var(--spacing-l);
+}
+
+
+
 /* Icons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .icon {
